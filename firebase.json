@@ -1,0 +1,23 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "moulink",
+          "configurations": {
+            "web": "1:472797098129:web:70cbe630ddd0bcd8500f30",
+            "windows": "1:472797098129:web:1966d34817d81435500f30"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
